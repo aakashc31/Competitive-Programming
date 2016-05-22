@@ -1,0 +1,20 @@
+1. matrix_mult_power.cpp : Matrix multiplication, power, squaring.
+2. prime_generator.cpp : sieve of eratosthenes
+3. reverse.cpp: Reverse a number, reverse a string
+4. number_array.cpp: storing number of string in little endian form, printing, adding, subtracting, mutiply by constant, factorial
+5. invcount.cpp: Counting number of inversions in an array in O(n log n)
+6. lonestCommonSubsequence_dyn_prg.cpp : Computing longest common subsequence of two strings in O(n^2)
+7. longestCommonSubstring_dyn_prg.cpp: Computing longest commong substring of two strings in O(n^2)
+8. kmp_string_matching.cpp : KMP string search algorithm implementation
+9. inv_lucas_mod.cpp : Power mod, Inverse mod, factorial mod, Lucas theorem, Ncr mod, iterative power mod, iterative power in log(p)
+10. prime_fact.cpp : Prime factorization in O(N^0.5)
+11. fibonacci.cpp: Fibonacci number mod modulo in log(n)
+12. base_conversion.cpp: Converts a number to any base n
+13. ncr.cpp: ncr
+14. LUP.cpp: LUP decomposition 
+15. Suffix Trie: This code is specifically  for the max xor subsection problem.
+16. Bigint : This code by Anudeep Nekkanti implements BigNumber in C++. Used for computation of very large numbers.
+17. Disjoint set data structure : Also called Union find or merge find set data structure. It supports two operations : find the partition to which an element belongs, take union of two sets.
+18. LCP : Suffix array construction in O(n log n), using which LCP array is made in O(n)
+19. Z algorithm : O(n) implementation of Z array. Z[i] means length of the longest substring starting at index i, which is also a prefix.
+
